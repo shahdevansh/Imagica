@@ -1,0 +1,17 @@
+We built Imagica at #hack4good 0.5 Hyderabad and won joint 2nd Place
+
+About Imagica:
+
+Imagica is a visual aid for toddlers and differently-abled children to learn via images instead of language.
+It is well known the vision is the best way to learn for children. We intend to help toddlers and challenged children learn better and faster through Images.
+Thus, Imagica.
+Our application, which is native python and can be ported to various platforms, converts whatever an instructor/parent/teacher says in English to a series or slideshow of images that would convey the same meaning. This is done is almost real-time.
+Our algorithm uses various speech-to-text conversion, POS tagging, image search and filtering and kivy for Graphics design.
+
+We have taken care of foul and abusive images and other related problems too.
+Please feel free to suggest any improvements/changes.
+
+And till then, continue to get surprized!
+
+Note:
+It started out as an real time conversion from speech to American Sign Language for those with hearing difficulties and can still be used to do that.
